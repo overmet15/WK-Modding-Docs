@@ -23,7 +23,7 @@ You cant have multiple scenes, or scene with the assets in same bundle, f#cking 
 
 ## Tutorial
 <a style="text-align: right;">
-  <img align="right" src="https://raw.githubusercontent.com/overmet15/WK-Modding-Docs/main/Images/Minecraft-Player-Model.png" />
+  <img align="right" src="https://raw.githubusercontent.com/overmet15/WK-Modding-Docs/main/Resources/Images/Minecraft-Player-Model.png" />
 </a>
 
 ### Building
