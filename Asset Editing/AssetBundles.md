@@ -26,8 +26,16 @@ You cant have multiple scenes, or scene with the assets in same bundle, f#cking 
   <img align="right" src="https://raw.githubusercontent.com/overmet15/WK-Modding-Docs/main/Images/Minecraft-Player-Model.png" />
 </a>
 
+### Building
 1. Create new unity project in unity hub, using version that was said above.
 2. Open it (usaly done automaticaly when created)
 3. Import any asset into assets folder, it can be audio, texture, or even model.
+4. Select the asset. On Bottom-Right corner of screen, you will see selected asset bundle, by default its set to "none", click on label and create new bundle.
+5. After that asset will be asigned to bundle.
+6. Now, you need to compile the bundle, download the {insert script here|ToDo} and wait for unity to reload.
+7. Navigate to topbar and select the "Asset Bundle" option, after that, the "Compile Bundles" button should appear, click on it.
+8. The "Asset Bundles" folder will be created, containing bundle files, the one that you need should be named after the bundle name (NOT .manifest FILE!)
+9. After that, proceed to __Opening The Bundle__.
 
+### Opening The Bundle
 ToDo
